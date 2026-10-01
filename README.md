@@ -1,5 +1,5 @@
 # 💫 About Me:
-I study Python right now and I'm working on it to get mastered and not only Python but other coding languages such as JavaScript, TypeScript, C#, SQL and more in the future, right now I'm 17 years old. I'm fast learner I love AI and I want to go with AI as the future because it's the new Industrial Revolution of this era. 
+I'm 17 years old and currently focused on learning and mastering Python. I'm also expanding my skills into other programming languages and technologies, including JavaScript, TypeScript, C#, SQL, and more as I continue my journey.<br><br>I'm a fast learner, curious by nature, and always looking for new challenges that push me to improve. I'm especially passionate about Artificial Intelligence and believe AI will play a major role in shaping the future—much like the Industrial Revolution transformed the world in its time.<br><br>🚀 My goal: Keep learning, build meaningful projects, explore AI, and become a well-rounded software developer.
 
 
 # 💻 Tech Stack:
